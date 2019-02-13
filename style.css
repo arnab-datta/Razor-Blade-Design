@@ -101,7 +101,7 @@ h1 {
 
 .Three {
     height: 600px;
-    background-image: url('images/8.jpg');
+    background-image: url('images/8.png');
     background-repeat: no-repeat;
     background-size: cover;
     transform: skew(0deg, -10deg) translateY(-140px);
